@@ -23,4 +23,7 @@ HenCoder 布局 1 修改已有控件的尺寸 练习项目
 
 ![](images/project_sample.png)
 
+整体流程：
+![](images/readme.jpg)
+
 练习做完，这期的内容也就掌握得差不多了。
